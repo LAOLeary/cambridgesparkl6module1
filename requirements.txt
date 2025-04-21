@@ -1,0 +1,3 @@
+pandas
+scikit‑learn
+openpyxl
